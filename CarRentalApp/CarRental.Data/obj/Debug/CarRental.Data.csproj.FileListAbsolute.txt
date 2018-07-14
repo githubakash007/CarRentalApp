@@ -1,9 +1,0 @@
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\CarRental.Data.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\CarRental.Data.pdb
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\CarRental.Model.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\Newtonsoft.Json.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\CarRental.Model.pdb
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\bin\Debug\Newtonsoft.Json.xml
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\obj\Debug\CarRental.Data.csprojResolveAssemblyReference.cache
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\obj\Debug\CarRental.Data.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Data\obj\Debug\CarRental.Data.pdb

@@ -1,4 +1,0 @@
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Model\bin\Debug\CarRental.Model.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Model\bin\Debug\CarRental.Model.pdb
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Model\obj\Debug\CarRental.Model.dll
-C:\TestProjects\Rimpi\CarRentalApp\CarRentalApp\CarRental.Model\obj\Debug\CarRental.Model.pdb
