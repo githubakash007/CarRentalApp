@@ -10,6 +10,7 @@ import { CarListComponent } from './car-list/car-list.component';
 import { CarService } from './service/car.service';
 import { ReservationComponent } from './reservation/reservation.component';
 import { AppRoutes } from './app.route';
+import { HeaderComponent } from './header/header.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { AppRoutes } from './app.route';
     AppComponent,
     CarViewComponent,
     CarListComponent,
-    ReservationComponent
+    ReservationComponent,
+    HeaderComponent
   ],
   imports: [
     BrowserModule,
