@@ -1,0 +1,9 @@
+.car-list-container{
+    display:flex;
+}
+
+.car-wrapper{
+    background: white;
+    padding: 10px;
+    border: 1px black solid;
+}
