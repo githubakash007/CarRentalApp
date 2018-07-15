@@ -12,6 +12,7 @@ const httpOptions = {
 @Injectable()
 export class CarService {
 
+     selectedCar:ICar;
     constructor(private _httpClient: HttpClient) { }
 
     getAllCars():Observable<ICar[]>{
@@ -27,4 +28,15 @@ export class CarService {
         console.log(`url is ${url}`);
         return url;
     }
+
+    set userSelectedCar(car:ICar){
+        this.selectedCar = car;
+    }
+
+    get userSelectedCar():ICar{
+        return this.selectedCar;
+    }
+
+
+    
 }

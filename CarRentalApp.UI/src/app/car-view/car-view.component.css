@@ -1,6 +1,6 @@
 .car-container{
     width: 33.3%;
-    height: 600px;
+    height: auto;
     padding: 5px;
     position: relative;
 }

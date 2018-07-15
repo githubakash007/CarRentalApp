@@ -17,4 +17,8 @@ export class CarListComponent implements OnInit {
     this._carService.getAllCars().subscribe(cars => this.carList = cars);
   }
 
+  saveUserSelectedCar(car:ICar):void{
+      this._carService.userSelectedCar = car;
+  }
+
 }

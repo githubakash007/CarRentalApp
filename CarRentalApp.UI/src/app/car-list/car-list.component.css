@@ -1,5 +1,6 @@
 .car-list-container{
     display:flex;
+    flex-flow: row wrap;
 }
 
 .car-wrapper{

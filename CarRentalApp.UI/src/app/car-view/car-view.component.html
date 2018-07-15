@@ -6,9 +6,9 @@
       <span>{{car?.Price}}</span>
   </div>
     <div class="car-image">
-       <img src="/assets/images/car.png" alt="Car Image">
+       <img src="/assets/images/{{car?.Manufacturer}}.png" alt="Car Image">
     </div>
-    <button class="select-button btn btn-success">Select</button>
+    <button class="select-button btn btn-success" (click)="goToReservation($event,car)">Select</button>
   </div>
 
 </div>

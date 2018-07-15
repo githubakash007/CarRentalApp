@@ -1,6 +1,6 @@
 <div class="car-list-container">
   <div class="car-wrapper" *ngFor="let car of carList">
-      <car-view [car]="car"></car-view>
+      <car-view [car]="car" (selectedCar)="saveUserSelectedCar($event)"></car-view>
   </div>
   
 </div>
